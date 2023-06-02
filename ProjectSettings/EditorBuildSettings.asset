@@ -4,7 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2f65c95cae5bd794aa459cb6337030b5
+  - enabled: 1
+    path: Assets/Scenes/Subjects.unity
+    guid: 8a569137de2bbcb469709716ce1d5a26
+  - enabled: 1
+    path: Assets/Scenes/Dragons.unity
+    guid: 8d4c203d05f2cc3488001b04e2a72f2a
+  - enabled: 1
+    path: Assets/Scenes/Animals.unity
+    guid: b165397f0a35a1c47a19881d3c524640
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 3098e321de98e6e41876393e9c7b338e
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
